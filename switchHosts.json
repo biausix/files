@@ -1,0 +1,72 @@
+{
+    "list": [
+        {
+            "id": "1605163659043-430008",
+            "title": "tool",
+            "content": "127.0.0.1 apollo.deve #8070 service:8080\n127.0.0.1 rabbitmq.deve #15672\n127.0.0.1 elasticsearch.deve #9200",
+            "on": true,
+            "where": "local",
+            "folder_mode": 0,
+            "url": "",
+            "last_refresh": null,
+            "refresh_interval": 0,
+            "include": [],
+            "children": []
+        },
+        {
+            "id": "1605163659043-322873",
+            "title": "kz",
+            "content": "127.0.0.1 dgj.kz.deve\n127.0.0.1 vin.kz.deve \t\t\t\t#9502\n127.0.0.1 vin-admin.kz.deve \t\t\t#9502\n\n192.168.137.101 ops-dev.kzmall.cc\n192.168.137.101 tms.kz.deve \t\t\t\t\t#9605\n192.168.137.101 dgj-purchase-service.kz.deve \t#9601 rpc:9604\n192.168.137.101 dgj-basedata-service.kz.deve \t#9603 rpc:9602\n192.168.137.101 dgj-sale-service.kz.deve \t\t#9609\n192.168.137.101 dgj-report-service.kz.deve \t\t#9610\n192.168.137.101 market.kz.deve \t\t\t\t\t#9501",
+            "on": true,
+            "where": "local",
+            "folder_mode": 0,
+            "url": "",
+            "last_refresh": null,
+            "refresh_interval": 0,
+            "include": [],
+            "children": []
+        },
+        {
+            "id": "1606980108397-621565",
+            "title": "qcp",
+            "content": "192.168.137.101 yunchexian-api.qcp.deve\n192.168.137.101 yunchexian-client.qcp.deve\n192.168.137.101 yunchexian-admin.qcp.deve",
+            "on": true,
+            "where": "local",
+            "folder_mode": 0,
+            "last_refresh": null,
+            "refresh_interval": 0,
+            "include": [],
+            "children": []
+        },
+        {
+            "id": "1606985026216-739871",
+            "title": "my",
+            "content": "127.0.0.1 am.my.deve\n",
+            "on": true,
+            "where": "local",
+            "folder_mode": 0,
+            "last_refresh": null,
+            "refresh_interval": 0,
+            "include": [],
+            "children": []
+        },
+        {
+            "id": "1610954180776-241651",
+            "title": "gbms",
+            "content": "127.0.0.1 api-hyperf.gbms.deve",
+            "on": true,
+            "where": "local",
+            "folder_mode": 0,
+            "last_refresh": null,
+            "refresh_interval": 0,
+            "include": [],
+            "children": []
+        }
+    ],
+    "version": [
+        3,
+        5,
+        6,
+        5551
+    ]
+}
